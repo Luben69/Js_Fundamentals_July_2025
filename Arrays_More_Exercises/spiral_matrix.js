@@ -1,5 +1,4 @@
 function spiralMatrix(rows, cols) {
-    // Create empty matrix
     let matrix = Array.from({ length: rows }, () => Array(cols).fill(0));
 
     let num = 1;            
