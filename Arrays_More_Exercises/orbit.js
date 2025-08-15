@@ -17,6 +17,3 @@ function orbiting(dimensions) {
         console.log(matrix[row].join(' '));
     }
 }
-
-orbiting([5, 5, 2, 2]);
-orbiting([4, 4, 0, 0]);
